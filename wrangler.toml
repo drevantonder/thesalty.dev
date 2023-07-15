@@ -1,0 +1,9 @@
+name = "thesalty-dev"
+main = "./.output/server/index.mjs"
+workers_dev = true
+compatibility_date = "2022-09-10"
+account_id = "8f668fcfb3d64d8bbef3c8895af0f67c"
+route = "thesalty.dev"
+
+[site]
+bucket = ".output/public"
